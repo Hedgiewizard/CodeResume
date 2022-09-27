@@ -1,0 +1,117 @@
+.introText{
+  padding-top: 7%;
+  padding-left: 2%;
+  font-size: 20px;
+}
+
+.ArtContainer{
+  /*display: flow-root;*/
+  padding-left: 9%;
+  padding-right: 9%;
+  overflow-y: scroll;
+  display: flex;
+  flex-direction: row;
+  column-count: 5;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.art{
+  padding: 0.5%;
+}
+
+.ItsFinepsd {
+  /*width: 29%;*//*ForThreeAccross*/
+  width: 23%; /*for four accross*/
+  padding: 0.5%;
+}
+
+.NewStyle{
+  /*width: 29%;*//*ForThreeAccross*/
+  width: 23%;
+  padding: 0.5%;
+}
+
+.OspMoviePoster {
+  width: 16%;
+  padding: 0.5%;
+}
+
+.YouWillBeOk{
+  width: 16%;
+  padding: 0.5%;
+}
+
+.ViolanceLanguage{
+  /*width: 29%;*//*ForThreeAccross*/
+  width: 23%;
+  padding: 0.5%;
+}
+
+.YingYang{
+  /*width: 29%;*//*ForThreeAccross*/
+  width: 23%;
+  padding: 0.5%;
+}
+
+.Thalia{
+  /*width: 34%*//*ForThreeAccross*/
+  width: 27%;
+  padding: 0.5%;
+}
+
+.MichaelVey{
+  width: 27%;
+  padding: 0.5%;
+}
+
+.LokiInHoodie{
+  width: 28%;
+  padding: 0.5%;
+}
+
+.AlexOc{
+  width: 15%;
+  padding: 0.5%;
+}
+
+.PracticeSunBurns{
+  width: 14%;
+  padding: 0.5%;
+}
+
+.ChibiJack{
+  width: 18%;
+  padding: 0.5%;
+}
+
+.AntiArtWithClouds{
+  width: 15%;
+  padding: 0.5%;
+}
+
+.ChineseMythOc{
+  width: 13%;
+  padding: 0.5%;
+}
+
+.TheyreFathers{
+  width: 12%;
+  padding: 0.5%;
+}
+
+.HalfAndHalf{
+  width: 15%;
+  padding: 0.5%;
+}
+
+.NewStyleSketch{
+  width: 16%;
+  padding: 0.5%;
+}
+
+.Him{
+  width: 16%;
+  padding: 0.5%;
+}

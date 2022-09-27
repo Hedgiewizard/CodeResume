@@ -1,0 +1,52 @@
+.header{
+  height: 15%;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #734C48;
+  display: block;
+  vertical-align: middle;
+
+}
+
+.litLogo{
+  padding: 5px;
+  height: 20%;
+}
+
+.name{
+  color: #BDBFBF;
+  font-size: 56px;
+}
+
+.headerAlignment{
+  display: flex;
+  flex-wrap: wrap;
+  -ms-flex: 1; /* IE 10 */
+  flex: 1;
+  height: 450%;
+  /*display: grid;
+  justify-content: flex-start;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: baseline;
+  /*justify-content: center;
+  justify-content: flex-start;
+  align-items: center;*/
+
+}
+
+/*.litLogo{
+  padding-right: 20%;
+}*/
+
+.name{
+  padding-left: 10%;
+  padding-right: 44.5%;
+}
+
+/*.clickableSideBar{
+  padding-left: 20%;
+}*/

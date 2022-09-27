@@ -1,0 +1,7 @@
+.bookContainer{
+
+}
+.book{
+  display: flex;
+  flex-direction: row;
+}

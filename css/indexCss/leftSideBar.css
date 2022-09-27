@@ -1,0 +1,22 @@
+/*The sidebar on left side*/
+.leftSideBar{
+  height: 85%;
+  width: 15%;
+  position:fixed;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+  background-color: #212624;
+  display: block;
+}
+
+ol{
+  font-size: 15px;
+}
+
+.leftSideBar{
+  padding-left: 12px;
+  padding-bottom: -5px; 
+  font-size: 25px;
+  color: #BDBFBF;
+}

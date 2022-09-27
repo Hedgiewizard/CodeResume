@@ -1,5 +1,5 @@
 .introText{
-  padding-top: 7%;
+  padding-top: 130px;
   padding-left: 2%;
   font-size: 20px;
 }
@@ -15,6 +15,46 @@
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
+}
+
+.blueButterfly{
+  width: 23%;
+  padding: 0.5%;
+}
+
+.FrogInAPocket{
+  width: 23%;
+  padding: 0.5%;
+}
+
+.ghost{
+  width: 23%;
+  padding: 0.5%;
+}
+
+.PurpleGem{
+  width: 23%;
+  padding: 0.5%;
+}
+
+.RainbowButterfly{
+  width: 23%;
+  padding: 0.5%;
+}
+
+.straberry{
+  width: 23%;
+  padding: 0.5%;
+}
+
+.voltronNasa{
+  width: 23%;
+  padding: 0.5%;
+}
+
+.heartGlasses{
+  width: 23%;
+  padding: 0.5%;
 }
 
 .art{

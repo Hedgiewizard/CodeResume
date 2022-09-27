@@ -1,7 +1,21 @@
-.bookContainer{
+.booksContainer{
 
 }
+
 .book{
   display: flex;
   flex-direction: row;
+}
+
+img{
+  height: 350px;
+  padding: 5% 0% 5% 0%;
+}
+
+.text{
+  padding-left: 35px;
+}
+
+.titleAndAuthor{
+  font-size: 30px;
 }

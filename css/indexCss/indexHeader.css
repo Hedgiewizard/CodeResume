@@ -19,6 +19,7 @@
 .name{
   color: #BDBFBF;
   font-size: 56px;
+  padding-right: 44.5%;
 }
 
 .headerAlignment{
@@ -41,11 +42,6 @@
 /*.litLogo{
   padding-right: 20%;
 }*/
-
-.name{
-  padding-left: 10%;
-  padding-right: 44.5%;
-}
 
 /*.clickableSideBar{
   padding-left: 20%;

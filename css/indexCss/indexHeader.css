@@ -6,8 +6,7 @@
   left: 0;
   right: 0;
   background-color: #734C48;
-  display: block;
-  vertical-align: middle;
+  box-sizing: border-box;
 
 }
 
@@ -16,33 +15,21 @@
   height: 20%;
 }
 
+.nameAndLogo{
+  display: flex;
+  flex-direction: row;
+}
+
 .name{
   color: #BDBFBF;
   font-size: 56px;
-  padding-right: 44.5%;
+  padding: 0px 50px;
 }
 
 .headerAlignment{
   display: flex;
-  flex-wrap: wrap;
   -ms-flex: 1; /* IE 10 */
   flex: 1;
   height: 450%;
-  /*display: grid;
-  justify-content: flex-start;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  align-items: baseline;
-  /*justify-content: center;
-  justify-content: flex-start;
-  align-items: center;*/
-
+  justify-content: space-between;
 }
-
-/*.litLogo{
-  padding-right: 20%;
-}*/
-
-/*.clickableSideBar{
-  padding-left: 20%;
-}*/

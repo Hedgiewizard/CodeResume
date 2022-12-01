@@ -12,3 +12,12 @@
 .headerOfList{
   font-size: 25px;
 }
+
+.itsMe{
+  width: 30%;
+  padding: 0% 2% 2% 2%;
+}
+
+.selfIntroText{
+  padding-top: 1rem;
+}

@@ -1,12 +1,12 @@
 .introText{
-  padding-top: 130px;
+  padding-top: 8.5%;
   padding-left: 2%;
   font-size: 20px;
 }
 
 .ArtContainer{
   /*display: flow-root;*/
-  padding-top: 130px;
+  padding-top: 3.5%;
   padding-left: 9%;
   padding-right: 9%;
   overflow-y: scroll;

@@ -1,0 +1,92 @@
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    
+}
+.contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;    
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    }
+
+.footerGroup{
+    position: static;
+}
+
+.contact{
+    background: #543430;
+    padding: 3%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contactText{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#contactMain{
+    font-size: 26px;
+    margin-bottom: 0%;
+}
+
+#contactSub{
+    font-size: 20px;
+    margin: 10px;
+}
+
+.contactButtons{
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+}
+
+.contactMe{
+    padding: 0px 10px;
+    font-size: 25px;
+    text-decoration: none;
+    color: #0d0d0d;
+}
+
+
+/* Fancy Contact button things */
+/* :link — :visited — :hover — :active */
+.contactMe:link{
+    color: #0d0d0d;
+}
+
+.contactMe:visited{
+    color: #323050;
+}
+
+.contactMe:hover{
+    text-decoration: underline;
+    padding-top: 5px;
+    color:aliceblue
+}
+
+.contactMe:active{
+    color: #0d0d0d;
+}
+
+.footer{
+    background-color: #543430;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;    
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}

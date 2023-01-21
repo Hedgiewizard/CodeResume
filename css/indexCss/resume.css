@@ -1,0 +1,14 @@
+.hasDate{
+    display: flex;
+    justify-content: space-between;
+}
+
+.schoolNameAndTime{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nameAndTime{
+    display: flex;
+    justify-content: space-between;
+}

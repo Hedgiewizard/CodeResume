@@ -1,6 +1,7 @@
 .introText{
   padding-top: 8.5%;
-  padding-left: 2%;
+  padding-left: 8%;
+  padding-right: 8%;
   font-size: 20px;
 }
 
@@ -15,6 +16,21 @@
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
+}
+
+.orginizeArt{
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+  /* style for the orginizing boxes */
+  border-radius: 10%;
+  height: 3rem;
+}
+
+.individualButton{
+  font-size: 30px;
+  color: #4c4c4c;
+  background-color: darkcyan;
 }
 
 .pixalEarth{

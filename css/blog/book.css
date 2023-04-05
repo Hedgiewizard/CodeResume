@@ -1,8 +1,15 @@
 .booksContainer{
 
 }
+.productContainer{
+
+}
 
 .book{
+  display: flex;
+  flex-direction: row;
+}
+.product{
   display: flex;
   flex-direction: row;
 }

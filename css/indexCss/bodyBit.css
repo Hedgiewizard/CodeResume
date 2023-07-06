@@ -3,10 +3,11 @@ html{
 }
 
 .bodyBit{
-  padding-left: 20%;
+  padding-left: 17%;
   padding-top: 8%;
-  padding-right: 10%;
+  padding-right: 5%;
   background-color: #F2F2F2;
+  display: flex;
 }
 
 .resumeHeading{
@@ -18,10 +19,16 @@ html{
 }
 
 .itsMe{
-  width: 30%;
-  padding: 0% 2% 2% 2%;
+  width: 35%;
+  height: 100%;
+  padding: 4% 4% 2% 2%;
 }
 
 .selfIntroText{
   padding-top: 1rem;
+  line-height: 1.5;
+}
+
+.whatDidYouDo{
+  padding-left: 5%;
 }

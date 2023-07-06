@@ -33,6 +33,21 @@
   background-color: darkcyan;
 }
 
+figure{
+  margin: 0.5rem
+}
+
+figure img{
+  max-height: 12rem;
+  min-height: 6rem;
+}
+
+button{
+  height: 45%;
+  width: 30%;
+  color: #4c4c4c;
+}
+
 .rengokuCandle{
   height: 12rem;
   padding: 0.5%;

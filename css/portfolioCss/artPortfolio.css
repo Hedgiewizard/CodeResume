@@ -7,9 +7,10 @@
 
 .ArtContainer{
   /*display: flow-root;*/
-  padding-top: 3%;
-  padding-left: 9%;
-  padding-right: 9%;
+  top: fixed;
+  padding-top: 8%;
+  padding-left: 5%;
+  padding-right: 5%;
   overflow-y: scroll;
   display: flex;
   flex-direction: row;
@@ -44,7 +45,7 @@ figure img{
 
 button{
   height: 45%;
-  width: 30%;
+  width: 85%;
   color: #4c4c4c;
 }
 

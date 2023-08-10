@@ -1,5 +1,7 @@
 .art{
-  padding: 0.5%;
+  padding: 0.25%;
+  height: 12rem;
+  height: 100%;
 }
 
 /* .{
@@ -7,212 +9,195 @@
   padding: 0.5%;
 } */
 
+.DisneyCastleAcrossWater{
+  height: 15rem;
+  padding: 0.5%;
+}
+
+.HomeLandscapeSunset{
+  height: 15rem;
+  padding: 0.5%;
+}
+
+.Gatsby{
+  height: 15rem;
+  padding: 0.5%;
+}
+
+.StatueAndBuilding{
+  height: 15rem;
+  padding: 0.5%;
+}
+
+.Modercycle{
+  height: 15rem;
+  padding: 0.5%;
+}
+
+.AroundTheCurveWithLeaves{
+  height: 15rem;
+  padding: 0.5%;
+}
+
+.Rapunzel{
+  height: 15rem;
+  padding: 0.5%;
+}
+
+.GreeneryAndWaterfall{
+  height: 15rem;
+  padding: 0.5%;
+}
+
 .bridgeAndTrees{
-  height: 12rem;
+  height: 15rem;
   padding: 0.5%;
 }
 
-.littleFlowers{
-  height: 12rem;
+.DisneyBridgeAndGreenery{
+  height: 15rem;
   padding: 0.5%;
 }
 
-.LittleRiverAndBrush{
-  height: 12rem;
+.Gatspy{
+  height: 15rem;
+  padding: 0.5%;
+}
+
+.How{
+  height: 15rem;
+  padding: 0.5%;
+}
+
+.IMG_6258{
+  height: 15rem;
+  padding: 0.5%;
+}
+
+.LandscapeSunset{
+  height: 15rem;
+  padding: 0.5%;
+}
+
+.LittleRiverAndBrush2{
+  height: 15rem;
   padding: 0.5%;
 }
 
 .littleWaterFalls{
-  height: 12rem;
+  height: 15rem;
   padding: 0.5%;
 }
 
 .LooksALittlePaintingOfTrees{
-  height: 12rem;
-  padding: 0.5%;
-}
-
-.MoonAndClouds{
-  height: 12rem;
+  height: 15rem;
   padding: 0.5%;
 }
 
 .RainbowInAParkingLot{
-  height: 12rem;
-  padding: 0.5%;
-}
-
-.roof{
-  height: 12rem;
+  height: 15rem;
   padding: 0.5%;
 }
 
 .SharperWaterfallFromAbove{
-  height: 12rem;
+  height: 15rem;
   padding: 0.5%;
 }
 
-.SmallWaterfallWMoss{
-  height: 12rem;
-  padding: 0.5%;
-}
-
-.smallWaterfallWMossAndRocks{
-  height: 12rem;
-  padding: 0.5%;
-}
-
-.TreesInTheBack1{
-  height: 12rem;
-  padding: 0.5%;
-}
-
-.TreesInTheBack2{
-  height: 12rem;
+.SmallWaterfallW{
+  height: 15rem;
   padding: 0.5%;
 }
 
 .twoWaterfallsIntoRocks{
-  height: 12rem;
+  height: 15rem;
   padding: 0.5%;
 }
 
 .WaterDroplettsOverMoutain{
-  height: 12rem;
-  padding: 0.5%;
-}
-
-.WaterfallFromAbove{
-  height: 12rem;
+  height: 15rem;
   padding: 0.5%;
 }
 
 .WaterfallFromBelow{
-  height: 12rem;
-  padding: 0.5%;
-}
-
-.WaterFallLarge{
-  height: 12rem;
+  height: 15rem;
   padding: 0.5%;
 }
 
 .waterfallToWaterfall{
-  height: 12rem;
+  height: 15rem;
+  padding: 0.5%;
+}
+.where{
+  height: 15rem;
   padding: 0.5%;
 }
 
-.wetRocks{
-  height: 12rem;
+.lense18Sarah{
+  height: 15rem;
+  padding: 0.5%;
+}
+.Berries{
+  height: 15rem;
   padding: 0.5%;
 }
 
-.CiggEdit{
-  height: 12rem;
+.cigerettEdit{
+  height: 15rem;
   padding: 0.5%;
 }
-
 .DabiEdit{
-  height: 12rem;
+  height: 15rem;
   padding: 0.5%;
 }
 
-.wolfEdit{
-  height: 12rem;
+.Going{
+  height: 15rem;
+  padding: 0.5%;
+}
+.Leaves{
+  height: 15rem;
   padding: 0.5%;
 }
 
-.sarah19 {
-  /*width: 29%;*//*ForThreeAccross*/
-  height: 12rem;
+.NiceNice{
+  height: 15rem;
+  padding: 0.5%;
+}
+.Sarah{
+  height: 15rem;
   padding: 0.5%;
 }
 
-.bentBranch{
-  /*width: 29%;*//*ForThreeAccross*/
-  height: 12rem;
+.SchoolBrocherHigh{
+  height: 15rem;
+  padding: 0.5%;
+}
+.TheThreeLeaves{
+  height: 15rem;
   padding: 0.5%;
 }
 
-.berries {
-  height: 12rem;
+.ToTheSideInFocusRocks{
+  height: 15rem;
   padding: 0.5%;
 }
 
-.gatsby{
-  height: 12rem;
+.Trees{
+  height: 15rem;
   padding: 0.5%;
 }
 
-.going{
-  /*width: 29%;*//*ForThreeAccross*/
-  height: 12rem;
+.UpCloseGrass{
+  height: 15rem;
+  padding: 0.5%;
+}
+.WhatCanISayILikeMountains{
+  height: 15rem;
   padding: 0.5%;
 }
 
-.straightStick{
-  /*width: 29%;*//*ForThreeAccross*/
-  height: 12rem;
-  padding: 0.5%;
-}
-
-.leaves{
-  /*width: 34%*//*ForThreeAccross*/
-  height: 12rem;
-  padding: 0.5%;
-}
-
-.modercycle{
-  height: 12rem;
-  padding: 0.5%;
-}
-
-.nice{
-  height: 12rem;
-  padding: 0.5%;
-}
-
-.SarahSteps{
-  height: 12rem;
-  padding: 0.5%;
-}
-
-.sarahBelow{
-  height: 12rem;
-  padding: 0.5%;
-}
-
-.schoolBrocher{
-  height: 12rem;
-  padding: 0.5%;
-}
-
-.threeLeaves{
-  height: 12rem;
-  padding: 0.5%;
-}
-
-.syndicate{
-  width: 21%;
-  padding: 0.5%;
-}
-
-.rocks{
-  height: 12rem;
-  padding: 0.5%;
-}
-
-.trees{
-  height: 12rem;
-  padding: 0.5%;
-}
-
-.upCloseGrass{
-  height: 12rem;
-  padding: 0.5%;
-}
-
-.mountains{
-  height: 12rem;
+.Landscape{
+  height: 15rem;
   padding: 0.5%;
 }

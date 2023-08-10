@@ -26,9 +26,34 @@ html{
 
 .selfIntroText{
   padding-top: 1rem;
-  line-height: 2.5;
+  line-height: 2;
 }
 
-.whatDidYouDo{
+/* .whatDidYouDo{
   padding-left: 5%;
+} */
+
+.portfolioBox{
+  height: 12rem;
+  /* height: 100%; */
+}
+
+.PortfolioBoxes{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+}
+
+figcaption{
+  display: flex;
+  justify-content: center;
+  background-color: darkred;
+  color: aliceblue;
+  text-decoration: none;
+  height: 1.5rem;
+  position: relative;
+  top: -10px;
 }

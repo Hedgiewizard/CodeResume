@@ -48,12 +48,6 @@ a:active{
   padding-left: 5%;
 } */
 
-.boxes{
-  padding: 2rem;
-  background-color: #3d0a00;
-  height: 20%;
-}
-
 .PortfolioBoxes{
   display: flex;
   flex-direction: row;
@@ -72,7 +66,7 @@ figcaption{
   height: 1.5rem;
   position: relative;
   top: -10px;
-  padding: 2rem;
-  font-size: 20px;
+  padding: 1.75rem;
+  font-size: 22px;
 }
 

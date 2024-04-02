@@ -10,6 +10,22 @@ html{
   display: flex;
 }
 
+.niceText:link{
+  text-decoration: none;
+}
+
+.niceText:hover{
+  text-decoration: none;
+}
+
+.niceText:visited{
+  text-decoration: none;
+}
+
+.niceText:active{
+  text-decoration: none;
+}
+
 .resumeHeading{
   font-size: 35px;
 }
@@ -35,6 +51,7 @@ html{
 
 .portfolioBox{
   height: 12rem;
+  width: 12rem;
   /* height: 100%; */
 }
 
@@ -50,10 +67,11 @@ html{
 figcaption{
   display: flex;
   justify-content: center;
-  background-color: darkred;
+  background-color: #3d0a00;
   color: aliceblue;
   text-decoration: none;
   height: 1.5rem;
   position: relative;
   top: -10px;
 }
+

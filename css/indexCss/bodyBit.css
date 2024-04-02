@@ -5,24 +5,23 @@ html{
 .bodyBit{
   padding-left: 17%;
   padding-top: 8%;
-  padding-right: 5%;
   background-color: #F2F2F2;
   display: flex;
 }
 
-.niceText:link{
+a:link{
   text-decoration: none;
 }
 
-.niceText:hover{
+a:visited{
   text-decoration: none;
 }
 
-.niceText:visited{
+a:hover{
   text-decoration: none;
 }
 
-.niceText:active{
+a:active{
   text-decoration: none;
 }
 
@@ -35,7 +34,7 @@ html{
 }
 
 .itsMe{
-  width: 35%;
+  width: 28%;
   height: 100%;
   padding: 4% 4% 2% 2%;
 }
@@ -49,10 +48,10 @@ html{
   padding-left: 5%;
 } */
 
-.portfolioBox{
-  height: 12rem;
-  width: 12rem;
-  /* height: 100%; */
+.boxes{
+  padding: 2rem;
+  background-color: #3d0a00;
+  height: 20%;
 }
 
 .PortfolioBoxes{
@@ -61,7 +60,7 @@ html{
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  padding: 0;
+  padding: 0%;
 }
 
 figcaption{
@@ -73,5 +72,7 @@ figcaption{
   height: 1.5rem;
   position: relative;
   top: -10px;
+  padding: 2rem;
+  font-size: 20px;
 }
 

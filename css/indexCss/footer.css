@@ -50,6 +50,7 @@ footer{
     display: flex;
     flex-direction: row;
     text-decoration: none;
+    padding-top: 0.75rem;
 }
 
 .contactMe{
@@ -67,7 +68,7 @@ footer{
 }
 
 .contactMe:visited{
-    color: #323050;
+    color: #0d0d0d;
 }
 
 .contactMe:hover{
